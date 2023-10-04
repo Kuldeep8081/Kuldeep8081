@@ -19,7 +19,7 @@
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at <a
-        href="(https://kuldeep8081.github.io/OIBSIP-level1-task2/)">Link</a>
+        href="https://kuldeep8081.github.io/OIBSIP-level1-task2/">Link</a>
 
 - 📫 How to reach me **kuldeep15072003kumar@gmail.com**
 
