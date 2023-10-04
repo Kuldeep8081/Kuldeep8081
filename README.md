@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Kuldeep8081/Kuldeep8081/blob/e0f539432dd303b9137d3eabc3409fccf22bdfa2/back.png)
+![logo](https://github.com/Kuldeep8081/Kuldeep8081/blob/main/Screenshot%202023-10-04%20083442.png)
 
 <h1 align="center"  >Hi 👋, I'm Kuldeep Kumar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
